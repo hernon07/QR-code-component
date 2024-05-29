@@ -1,0 +1,53 @@
+/*RESET*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/*CENTER MAIN*/
+
+body {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  background-color: #d5e1ef;
+}
+
+/*MAIN ELEMENTS STYLES*/
+
+main {
+  width: 320px;
+  height: 497px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+img {
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  width: 288px;
+  height: 56px;
+  color: #1f314f;
+}
+
+p {
+  font-size: 1rem;
+  width: 256px;
+  height: 57px;
+  color: #7d889e;
+}
+
+h1,
+p {
+  text-align: center;
+}
