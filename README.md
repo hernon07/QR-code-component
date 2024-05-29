@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Preview](QR-code-page.png)
 
 # Description
     a static page 
